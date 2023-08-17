@@ -1,0 +1,8 @@
+C:\Users\UNI-03\source\repos\Serializacion\BibliotecaBanco\bin\Debug\BibliotecaBanco.dll
+C:\Users\UNI-03\source\repos\Serializacion\BibliotecaBanco\bin\Debug\BibliotecaBanco.pdb
+C:\Users\UNI-03\source\repos\Serializacion\BibliotecaBanco\obj\Debug\BibliotecaBanco.csprojAssemblyReference.cache
+C:\Users\UNI-03\source\repos\Serializacion\BibliotecaBanco\obj\Debug\BibliotecaBanco.BancoUIForm.resources
+C:\Users\UNI-03\source\repos\Serializacion\BibliotecaBanco\obj\Debug\BibliotecaBanco.csproj.GenerateResource.cache
+C:\Users\UNI-03\source\repos\Serializacion\BibliotecaBanco\obj\Debug\BibliotecaBanco.csproj.CoreCompileInputs.cache
+C:\Users\UNI-03\source\repos\Serializacion\BibliotecaBanco\obj\Debug\BibliotecaBanco.dll
+C:\Users\UNI-03\source\repos\Serializacion\BibliotecaBanco\obj\Debug\BibliotecaBanco.pdb

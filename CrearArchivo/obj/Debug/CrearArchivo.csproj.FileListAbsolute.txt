@@ -1,0 +1,30 @@
+C:\Users\UNI-03\source\repos\Serializacion\CrearArchivo\bin\Debug\CrearArchivo.exe.config
+C:\Users\UNI-03\source\repos\Serializacion\CrearArchivo\bin\Debug\CrearArchivo.exe
+C:\Users\UNI-03\source\repos\Serializacion\CrearArchivo\bin\Debug\CrearArchivo.pdb
+C:\Users\UNI-03\source\repos\Serializacion\CrearArchivo\bin\Debug\BibliotecaBanco.dll
+C:\Users\UNI-03\source\repos\Serializacion\CrearArchivo\bin\Debug\BibliotecaBanco.pdb
+C:\Users\UNI-03\source\repos\Serializacion\CrearArchivo\obj\Debug\CrearArchivo.csprojAssemblyReference.cache
+C:\Users\UNI-03\source\repos\Serializacion\CrearArchivo\obj\Debug\CrearArchivo.CrearArchivoForm.resources
+C:\Users\UNI-03\source\repos\Serializacion\CrearArchivo\obj\Debug\CrearArchivo.Properties.Resources.resources
+C:\Users\UNI-03\source\repos\Serializacion\CrearArchivo\obj\Debug\CrearArchivo.csproj.GenerateResource.cache
+C:\Users\UNI-03\source\repos\Serializacion\CrearArchivo\obj\Debug\CrearArchivo.csproj.CoreCompileInputs.cache
+C:\Users\UNI-03\source\repos\Serializacion\CrearArchivo\obj\Debug\CrearArchivo.csproj.CopyComplete
+C:\Users\UNI-03\source\repos\Serializacion\CrearArchivo\obj\Debug\CrearArchivo.exe
+C:\Users\UNI-03\source\repos\Serializacion\CrearArchivo\obj\Debug\CrearArchivo.pdb
+C:\Users\sevas\OneDrive\Escritorio\Clases UNI\Serializacion\CrearArchivo\bin\Debug\CrearArchivo.exe.config
+C:\Users\sevas\OneDrive\Escritorio\Clases UNI\Serializacion\CrearArchivo\bin\Debug\CrearArchivo.exe
+C:\Users\sevas\OneDrive\Escritorio\Clases UNI\Serializacion\CrearArchivo\bin\Debug\CrearArchivo.pdb
+C:\Users\sevas\OneDrive\Escritorio\Clases UNI\Serializacion\CrearArchivo\bin\Debug\BibliotecaBanco.dll
+C:\Users\sevas\OneDrive\Escritorio\Clases UNI\Serializacion\CrearArchivo\bin\Debug\LeerArchivoSecuencial.exe
+C:\Users\sevas\OneDrive\Escritorio\Clases UNI\Serializacion\CrearArchivo\bin\Debug\LeerArchivoSecuencial.pdb
+C:\Users\sevas\OneDrive\Escritorio\Clases UNI\Serializacion\CrearArchivo\bin\Debug\LeerArchivoSecuencial.exe.config
+C:\Users\sevas\OneDrive\Escritorio\Clases UNI\Serializacion\CrearArchivo\bin\Debug\BibliotecaBanco.pdb
+C:\Users\sevas\OneDrive\Escritorio\Clases UNI\Serializacion\CrearArchivo\obj\Debug\CrearArchivo.csproj.AssemblyReference.cache
+C:\Users\sevas\OneDrive\Escritorio\Clases UNI\Serializacion\CrearArchivo\obj\Debug\CrearArchivo.csproj.SuggestedBindingRedirects.cache
+C:\Users\sevas\OneDrive\Escritorio\Clases UNI\Serializacion\CrearArchivo\obj\Debug\CrearArchivo.CrearArchivoForm.resources
+C:\Users\sevas\OneDrive\Escritorio\Clases UNI\Serializacion\CrearArchivo\obj\Debug\CrearArchivo.Properties.Resources.resources
+C:\Users\sevas\OneDrive\Escritorio\Clases UNI\Serializacion\CrearArchivo\obj\Debug\CrearArchivo.csproj.GenerateResource.cache
+C:\Users\sevas\OneDrive\Escritorio\Clases UNI\Serializacion\CrearArchivo\obj\Debug\CrearArchivo.csproj.CoreCompileInputs.cache
+C:\Users\sevas\OneDrive\Escritorio\Clases UNI\Serializacion\CrearArchivo\obj\Debug\CrearArchivo.csproj.CopyComplete
+C:\Users\sevas\OneDrive\Escritorio\Clases UNI\Serializacion\CrearArchivo\obj\Debug\CrearArchivo.exe
+C:\Users\sevas\OneDrive\Escritorio\Clases UNI\Serializacion\CrearArchivo\obj\Debug\CrearArchivo.pdb

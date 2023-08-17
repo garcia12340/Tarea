@@ -1,0 +1,29 @@
+C:\Users\UNI-03\source\repos\Serializacion\LeerArchivoSecuencial\bin\Debug\LeerArchivoSecuencial.exe.config
+C:\Users\UNI-03\source\repos\Serializacion\LeerArchivoSecuencial\bin\Debug\LeerArchivoSecuencial.exe
+C:\Users\UNI-03\source\repos\Serializacion\LeerArchivoSecuencial\bin\Debug\LeerArchivoSecuencial.pdb
+C:\Users\UNI-03\source\repos\Serializacion\LeerArchivoSecuencial\bin\Debug\BibliotecaBanco.dll
+C:\Users\UNI-03\source\repos\Serializacion\LeerArchivoSecuencial\bin\Debug\BibliotecaBanco.pdb
+C:\Users\UNI-03\source\repos\Serializacion\LeerArchivoSecuencial\obj\Debug\LeerArchivoSecuencial.csprojAssemblyReference.cache
+C:\Users\UNI-03\source\repos\Serializacion\LeerArchivoSecuencial\obj\Debug\LeerArchivoSecuencial.LeerArchivoSecuencialForm.resources
+C:\Users\UNI-03\source\repos\Serializacion\LeerArchivoSecuencial\obj\Debug\LeerArchivoSecuencial.Properties.Resources.resources
+C:\Users\UNI-03\source\repos\Serializacion\LeerArchivoSecuencial\obj\Debug\LeerArchivoSecuencial.csproj.GenerateResource.cache
+C:\Users\UNI-03\source\repos\Serializacion\LeerArchivoSecuencial\obj\Debug\LeerArchivoSecuencial.csproj.CoreCompileInputs.cache
+C:\Users\UNI-03\source\repos\Serializacion\LeerArchivoSecuencial\obj\Debug\LeerArchivoSecuencial.csproj.CopyComplete
+C:\Users\UNI-03\source\repos\Serializacion\LeerArchivoSecuencial\obj\Debug\LeerArchivoSecuencial.exe
+C:\Users\UNI-03\source\repos\Serializacion\LeerArchivoSecuencial\obj\Debug\LeerArchivoSecuencial.pdb
+C:\Users\sevas\OneDrive\Escritorio\Clases UNI\Serializacion\LeerArchivoSecuencial\bin\Debug\LeerArchivoSecuencial.exe.config
+C:\Users\sevas\OneDrive\Escritorio\Clases UNI\Serializacion\LeerArchivoSecuencial\bin\Debug\LeerArchivoSecuencial.exe
+C:\Users\sevas\OneDrive\Escritorio\Clases UNI\Serializacion\LeerArchivoSecuencial\bin\Debug\LeerArchivoSecuencial.pdb
+C:\Users\sevas\OneDrive\Escritorio\Clases UNI\Serializacion\LeerArchivoSecuencial\bin\Debug\BibliotecaBanco.dll
+C:\Users\sevas\OneDrive\Escritorio\Clases UNI\Serializacion\LeerArchivoSecuencial\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sevas\OneDrive\Escritorio\Clases UNI\Serializacion\LeerArchivoSecuencial\bin\Debug\BibliotecaBanco.pdb
+C:\Users\sevas\OneDrive\Escritorio\Clases UNI\Serializacion\LeerArchivoSecuencial\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sevas\OneDrive\Escritorio\Clases UNI\Serializacion\LeerArchivoSecuencial\obj\Debug\LeerArchivoSecuencial.csproj.AssemblyReference.cache
+C:\Users\sevas\OneDrive\Escritorio\Clases UNI\Serializacion\LeerArchivoSecuencial\obj\Debug\LeerArchivoSecuencial.csproj.SuggestedBindingRedirects.cache
+C:\Users\sevas\OneDrive\Escritorio\Clases UNI\Serializacion\LeerArchivoSecuencial\obj\Debug\LeerArchivoSecuencial.LeerArchivoSecuencialForm.resources
+C:\Users\sevas\OneDrive\Escritorio\Clases UNI\Serializacion\LeerArchivoSecuencial\obj\Debug\LeerArchivoSecuencial.Properties.Resources.resources
+C:\Users\sevas\OneDrive\Escritorio\Clases UNI\Serializacion\LeerArchivoSecuencial\obj\Debug\LeerArchivoSecuencial.csproj.GenerateResource.cache
+C:\Users\sevas\OneDrive\Escritorio\Clases UNI\Serializacion\LeerArchivoSecuencial\obj\Debug\LeerArchivoSecuencial.csproj.CoreCompileInputs.cache
+C:\Users\sevas\OneDrive\Escritorio\Clases UNI\Serializacion\LeerArchivoSecuencial\obj\Debug\LeerArchivoSecuencial.csproj.CopyComplete
+C:\Users\sevas\OneDrive\Escritorio\Clases UNI\Serializacion\LeerArchivoSecuencial\obj\Debug\LeerArchivoSecuencial.exe
+C:\Users\sevas\OneDrive\Escritorio\Clases UNI\Serializacion\LeerArchivoSecuencial\obj\Debug\LeerArchivoSecuencial.pdb
