@@ -18,6 +18,7 @@ namespace CrearArchivo
     {
         // objeto para serializar Registros en formato binario
         private BinaryFormatter aplicadorFormato = new BinaryFormatter();
+        private StreamWriter archivoWriter; // escribe datos en el archivo de texto
         private FileStream salida; // mantiene la conexión con el archivo
 
         // constructor sin parámetros
@@ -61,6 +62,9 @@ namespace CrearArchivo
                     salida = new FileStream(nombreArchivo, FileMode.OpenOrCreate,
                         FileAccess.Write);
 
+                    // establece el archivo para escribir los datos
+                    archivoWriter = new StreamWriter(salida);
+
                     // deshabilita el botón Guardar y habilita el botón Introducir
                     btnGuardar.Enabled = false;
                     btnIntroducir.Enabled = true;
@@ -85,6 +89,7 @@ namespace CrearArchivo
                 // cierra el archivo
                 try
                 {
+                    archivoWriter.Close(); // cierra StreamWriter
                     salida.Close();
                 } // fin de try
                 // notifica al usuario del error al cerrar el archivo
@@ -128,8 +133,10 @@ namespace CrearArchivo
                         registro.ApellidoPaterno = valores[(int)IndicesTextBox.APELLIDO];
                         registro.Saldo = Decimal.Parse(valores[(int)IndicesTextBox.SALDO]);
 
-                        // escribe el registro al objeto FileStream (serializa el objeto)
-                        aplicadorFormato.Serialize(salida, registro);
+                        // escribe el registro al archivo, los campos separados por comas
+                        archivoWriter.WriteLine(
+                            registro.Cuenta + "," + registro.PrimerNombre + "," +
+                            registro.ApellidoPaterno + "," + registro.Saldo);
                     } // fin de if
                     else
                     {

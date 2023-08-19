@@ -19,6 +19,7 @@ namespace LeerArchivoSecuencial
         // objeto para deserializar el Registro en formato binario
         private BinaryFormatter lector = new BinaryFormatter();
         private FileStream entrada; // flujo para leer de un archivo
+        private StreamReader archivoReader; // lee datos de un archivo de texto
 
         // constructor sin parámetros
         public LeerArchivoSecuencialForm()
@@ -51,6 +52,9 @@ namespace LeerArchivoSecuencial
                 entrada = new FileStream(nombreArchivo, FileMode.Open,
                     FileAccess.Read);
 
+                // establece el archivo del que se van a leer los datos
+                archivoReader = new StreamReader(entrada);
+
                 btnAbrir.Enabled = false; // deshabilita el botón abrir archivo
                 btnSiguiente.Enabled = true; // habilita el botón Siguiente registro
             } // fin del else
@@ -59,35 +63,42 @@ namespace LeerArchivoSecuencial
         // se invoca cuando el usuario hace clic en el botón Siguiente
         private void BtnSiguiente_Click(object sender, EventArgs e)
         {
-            //deserializa el Registro y almacena los datos en controles TextBox
             try
             {
-                // obtiene el siguiente RegistroSerializable disponible en el archivo
-                RegistroSerializable registro = (RegistroSerializable)lector.Deserialize(entrada);
+                // obtiene el siguiente Registro disponible en el archivo
+                string registroEntrada = archivoReader.ReadLine();
+                string[] camposEntrada; // almacena piezas individuales de datos
 
-                // almacena los valores el Registro en un arreglo string temporal
-                string[] valores = new string[] {
-                    registro.Cuenta.ToString(),
-                    registro.PrimerNombre.ToString(),
-                    registro.ApellidoPaterno.ToString(),
-                    registro.Saldo.ToString()
-                };
+                if (registroEntrada != null)
+                {
+                    camposEntrada = registroEntrada.Split(',');
+                    
+                    RegistroSerializable registro = new RegistroSerializable(
+                        Convert.ToInt32(camposEntrada[0]), camposEntrada[1],
+                        camposEntrada[2], Convert.ToDecimal(camposEntrada[3]));
 
-                //copia los valores del arreglo string a los controles TextBox
-                EstablecerValoresControlesTextBox(valores);
+                    // copia los valores del arreglo string a los valores de los controles TextBox
+                    EstablecerValoresControlesTextBox(camposEntrada);
+                }//fin de if
+                else
+                {
+                    archivoReader.Close(); // cierra StreamReader
+                    entrada.Close(); // cierra FileStream si no hay registros en el archivo
+                    btnAbrir.Enabled = true; // habilita el botón Abrir archivo
+                    btnSiguiente.Enabled = false; // deshabilita el botón Siguiente registro
+
+                    LimpiarControlesTextBox();
+
+                    // notifica al usuario si no hay registros en el archivo
+                    MessageBox.Show("No hay más registros en el archivo", "",
+                        MessageBoxButtons.OK, MessageBoxIcon.Information);
+                }// fin de else
             } // fin de try
-            // maneja la excepción cuando no hay registros en el archivo
-            catch (SerializationException)
+            catch (IOException)
             {
-                entrada.Close(); // cierra objeto FileStream si no hay registros en el archivo
-                btnAbrir.Enabled = true; // habilita el botón abrir archivo
-                btnSiguiente.Enabled = false; // deshabilita el botón Siguiente registro
-
-                LimpiarControlesTextBox();
-
                 // notifica al usuario si no hay registros en el archivo
-                MessageBox.Show("No hay más registros en el archivo", "",
-                    MessageBoxButtons.OK, MessageBoxIcon.Information);
+                MessageBox.Show("Error al leer del archivo", "Error",
+                    MessageBoxButtons.OK, MessageBoxIcon.Error);
             } // fin de catch
         } // fin del método BtnSiguiente_Click
     } // fin de la clase LeerArchivoSecuencialForm
