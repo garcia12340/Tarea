@@ -6,3 +6,11 @@ C:\Users\UNI-03\source\repos\Serializacion\BibliotecaBanco\obj\Debug\BibliotecaB
 C:\Users\UNI-03\source\repos\Serializacion\BibliotecaBanco\obj\Debug\BibliotecaBanco.csproj.CoreCompileInputs.cache
 C:\Users\UNI-03\source\repos\Serializacion\BibliotecaBanco\obj\Debug\BibliotecaBanco.dll
 C:\Users\UNI-03\source\repos\Serializacion\BibliotecaBanco\obj\Debug\BibliotecaBanco.pdb
+C:\Users\sevas\OneDrive\Escritorio\Clases UNI\Tarea\BibliotecaBanco\bin\Debug\BibliotecaBanco.dll
+C:\Users\sevas\OneDrive\Escritorio\Clases UNI\Tarea\BibliotecaBanco\bin\Debug\BibliotecaBanco.pdb
+C:\Users\sevas\OneDrive\Escritorio\Clases UNI\Tarea\BibliotecaBanco\obj\Debug\BibliotecaBanco.csproj.AssemblyReference.cache
+C:\Users\sevas\OneDrive\Escritorio\Clases UNI\Tarea\BibliotecaBanco\obj\Debug\BibliotecaBanco.BancoUIForm.resources
+C:\Users\sevas\OneDrive\Escritorio\Clases UNI\Tarea\BibliotecaBanco\obj\Debug\BibliotecaBanco.csproj.GenerateResource.cache
+C:\Users\sevas\OneDrive\Escritorio\Clases UNI\Tarea\BibliotecaBanco\obj\Debug\BibliotecaBanco.csproj.CoreCompileInputs.cache
+C:\Users\sevas\OneDrive\Escritorio\Clases UNI\Tarea\BibliotecaBanco\obj\Debug\BibliotecaBanco.dll
+C:\Users\sevas\OneDrive\Escritorio\Clases UNI\Tarea\BibliotecaBanco\obj\Debug\BibliotecaBanco.pdb

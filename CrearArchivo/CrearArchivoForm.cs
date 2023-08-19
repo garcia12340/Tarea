@@ -16,8 +16,6 @@ namespace CrearArchivo
 {
     public partial class CrearArchivoForm : BancoUIForm
     {
-        // objeto para serializar Registros en formato binario
-        private BinaryFormatter aplicadorFormato = new BinaryFormatter();
         private StreamWriter archivoWriter; // escribe datos en el archivo de texto
         private FileStream salida; // mantiene la conexión con el archivo
 

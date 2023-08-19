@@ -6,7 +6,6 @@ using System.Threading.Tasks;
 
 namespace BibliotecaBanco
 {
-    //[Serializable]
     public class RegistroSerializable
     {
         private int cuenta;

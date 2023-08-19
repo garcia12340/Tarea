@@ -1,0 +1,14 @@
+C:\Users\sevas\OneDrive\Escritorio\Clases UNI\Tarea\Consulta\obj\Debug\Consulta.csproj.AssemblyReference.cache
+C:\Users\sevas\OneDrive\Escritorio\Clases UNI\Tarea\Consulta\obj\Debug\Consulta.csproj.SuggestedBindingRedirects.cache
+C:\Users\sevas\OneDrive\Escritorio\Clases UNI\Tarea\Consulta\obj\Debug\Consulta.Properties.Resources.resources
+C:\Users\sevas\OneDrive\Escritorio\Clases UNI\Tarea\Consulta\obj\Debug\Consulta.csproj.GenerateResource.cache
+C:\Users\sevas\OneDrive\Escritorio\Clases UNI\Tarea\Consulta\obj\Debug\Consulta.csproj.CoreCompileInputs.cache
+C:\Users\sevas\OneDrive\Escritorio\Clases UNI\Tarea\Consulta\bin\Debug\Consulta.exe.config
+C:\Users\sevas\OneDrive\Escritorio\Clases UNI\Tarea\Consulta\bin\Debug\Consulta.exe
+C:\Users\sevas\OneDrive\Escritorio\Clases UNI\Tarea\Consulta\bin\Debug\Consulta.pdb
+C:\Users\sevas\OneDrive\Escritorio\Clases UNI\Tarea\Consulta\bin\Debug\BibliotecaBanco.dll
+C:\Users\sevas\OneDrive\Escritorio\Clases UNI\Tarea\Consulta\bin\Debug\BibliotecaBanco.pdb
+C:\Users\sevas\OneDrive\Escritorio\Clases UNI\Tarea\Consulta\obj\Debug\Consulta.csproj.CopyComplete
+C:\Users\sevas\OneDrive\Escritorio\Clases UNI\Tarea\Consulta\obj\Debug\Consulta.exe
+C:\Users\sevas\OneDrive\Escritorio\Clases UNI\Tarea\Consulta\obj\Debug\Consulta.pdb
+C:\Users\sevas\OneDrive\Escritorio\Clases UNI\Tarea\Consulta\obj\Debug\Consulta.ConsultaCredito.resources

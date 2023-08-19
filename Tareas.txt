@@ -1,1 +1,2 @@
-1,Mellisa,Diaz,2000
+1,Mellisa,Diaz,50000
+2,Azaria,Delgada,40000

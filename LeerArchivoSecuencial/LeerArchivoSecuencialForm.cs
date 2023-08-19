@@ -16,8 +16,6 @@ namespace LeerArchivoSecuencial
 {
     public partial class LeerArchivoSecuencialForm : BancoUIForm
     {
-        // objeto para deserializar el Registro en formato binario
-        private BinaryFormatter lector = new BinaryFormatter();
         private FileStream entrada; // flujo para leer de un archivo
         private StreamReader archivoReader; // lee datos de un archivo de texto
 
@@ -101,5 +99,11 @@ namespace LeerArchivoSecuencial
                     MessageBoxButtons.OK, MessageBoxIcon.Error);
             } // fin de catch
         } // fin del método BtnSiguiente_Click
+
+        //private void button1_Click(object sender, EventArgs e)
+        //{
+        //    ConsultaCreditoForm x = new ConsultaCreditoForm();
+        //    x.ShowDialog();
+        //}
     } // fin de la clase LeerArchivoSecuencialForm
 }
